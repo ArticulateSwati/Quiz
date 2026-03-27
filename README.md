@@ -4,8 +4,8 @@ A sleek, **beginner-friendly**, and highly interactive Quiz Application. This pr
 
 ---
 
-## 👤 Author
-**Developed with ❤️ by Swati**
+## 👧 Author
+**Swati**
 
 ---
 
